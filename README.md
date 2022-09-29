@@ -45,7 +45,7 @@
 |기본언어|![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)|
 |데이터베이스|<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>|
 |빌드|<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>|
-|퍼시스던트|![Mybatis](https://img.shields.io/badge/-Mybatis-CB3837?style=flat-square&logo=Mybatis&logoColor=white)|
+|퍼시스턴트|![Mybatis](https://img.shields.io/badge/-Mybatis-CB3837?style=flat-square&logo=Mybatis&logoColor=white)|
 |크롤링자동화|![Listly](https://img.shields.io/badge/-Listly-2F9176?style=flat-square&logo=Listly&logoColor=white)|
 |형상관리|<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>|
 
